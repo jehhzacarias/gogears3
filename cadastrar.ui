@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>cadastrar</class>
+ <widget class="QWidget" name="cadastrar">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>411</width>
+    <height>604</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>510</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Cadastrar</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>341</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>160</y>
+     <width>341</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>230</y>
+     <width>341</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_4">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>300</y>
+     <width>341</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_5">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>370</y>
+     <width>341</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>341</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Modelo</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>140</y>
+     <width>341</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Marca</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>210</y>
+     <width>341</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Ano</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>280</y>
+     <width>341</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Volume Porta Mala</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>350</y>
+     <width>341</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Número de Passageiros</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
